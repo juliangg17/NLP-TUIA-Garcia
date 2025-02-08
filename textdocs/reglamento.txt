@@ -1,0 +1,81 @@
+Azul  
+
+
+Set-Up: 
+
+ Everyone takes a player board and places it color side face -up.  (As a variant, use the other side of the board 
+which allows for any color to occupy a spot on the wall as long as no color in a vertical column repeats itself.)  
+
+ Everyone p laces a  black cube scoring marker on the “0” space at the top of the ir board s. 
+
+ Place 5/7/9 factory coasters in a circle based on 2/3/4 players.   Put all 100 tiles in the cloth bag and mix.  
+
+ Choose a “start player” who randomly places 4 tiles onto each factory coaster .  (There are 20 tiles of each color) .   
+
+ If the bag runs out  when supplying the factories , refill the bag from the tiles in the box lid.  
+
+
+Game Flow : 
+
+ Azul is played over several rounds (usually 5 -7) until 1 + players have completed  at least 1 horizontal row  on their 
+“wall”  (right side of their board .)  When this happens, finish the current round and go to end game . 
+
+ During a round, the Start player will take the first action, and play will go clockwise u ntil there are no actions 
+left.  Passing is not allowed!  Once there are n o more tiles to take, all players score simu ltaneously for the given 
+round.  Before the round starts, The 1st player places the 1st player token in the center area, t hen takes a  turn.   
+
+ On a turn, a player may either … 
+o take all tiles of 1 color from 1 facto ry coaster (moving the rest of the tiles from that factory coaster into the 
+center area)              OR 
+o take all tiles of 1 color from the center area (all other colors stay put).  If the 1st player token is still in the 
+center, place this token in the left -most s pot at the bottom of the player board in the “floor” area.  
+
+ After the player has selected 1 of the 2 options above, they must now place these tiles in one of the 5 “pattern 
+lines” on the left side of the player board (above the “floor.” ) 
+
+ To do this, choose 1 h orizontal line (again, left side of player board), and place all chosen tiles in this line from 
+right to left.  You may add tiles to a line that currently has tiles  as long as the colors match .  If you fill up the 
+Pattern line and have extra tiles  in hand , these tiles must “drop do wn to the floor” by filling in the spaces at the 
+bottom of the player board from left to right (same area as where the 1st player marker will  go when taken).    
+
+ If the “wall”  on the right side of your player board has a tile  that is the same color as the t iles you just selec ted, 
+you may not choose the sam e Pattern line (row)  because you have this tile already!   You must choose another 
+Pattern line.  Essentia lly if a yel low tile is on your Wall (grid),  you can't start a yellow line in the same row 
+because you  did yellow already and can ’t place another yellow tile in this row . 
+
+ Any tile that you can't place  or do not  want to place  in a Pattern line , must “drop to the floor” area.  
+
+
+Scoring : 
+
+ Once all the tiles are taken and placed, all players move and score tiles simultaneously.  
+
+ Evaluating the “P attern” lines on the left side of your player board  is all done the same way.  S tart with line 1.  If 
+this line is comp lete (all spaces filled), then move the right most tile to the matching “wall” (grid) space.  (It 
+should be empty).   The first line is  easy because there is only 1 tile, so only 1 tile will complete it and thus that 1 
+tile will be moved over, however, for  the rest of the rows, it will be slightly different.  
+
+ Before you evaluate  rows 2 -5, you need to score row 1 (you score points after each row where you moved a tile 
+over .)  To score, look at the tile you just pla ced, and count ALL tiles horizontally linked to this tile including itself , 
+and then count ALL tiles vertically linked to  this tile, including itself .  Score these points at the top of your player 
+board now!  If a tile is by itself, it is only worth 1 point (not 2 like you might think).  For example, if you place a 
+tile next to a tile on its left and a tile below it, you will sc ore 4 points (itself + left tile, and itself  + below tile) .   
+
+ Now evaluate/score for  “Pattern lines” 2-5… see if the row is complete, if it is, move the right most tile into your 
+“wall” and discard the rest of the tiles into the box lid.   Score this tile as just described above.   
+
+ If a row is NOT complete, leave the tiles alone.   Nothing will score for this line.  
+
+ After evaluating  the rows , check your “floor ” and subtract  points for items there.  Remove tiles to the box lid.   If 
+you have the  1st player marker, keep it for now, but it will go in the center area befo re you kick off next round . 
+
+ If 1+ player(s) have  completed at least 1 horizontal row, the game now ends, otherwise, start a new round.  
+
+
+End Game :  (Score additional points based on tiles on your “wall ” area)  
+
+ Score 2 points for each complete horizontal  row and 7 points for each completed verti cal column.  
+
+ Score 10 points for each color that you managed to place all 5 tiles on your wall.  
+
+ Most points is the winner.  Ties broken by most horizontal  lines.  
